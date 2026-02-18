@@ -1,5 +1,5 @@
-# multilingual-vocab-agent-langflow
-multilingual-vocab-agent-langflow is an agentic language-learning system built with Langflow and LLMs that generates dynamic reading stories from user-defined vocabulary. It uses custom components, tool-calling agents, multilingual vocab storage, and intent routing for story creation and vocab management.
+# Multilingual-vocab-agent-langflow
+Multilingual-vocab-agent-langflow is an agentic language-learning system built with Langflow and LLMs that generates dynamic reading stories from user-defined vocabulary. It uses custom components, tool-calling agents, multilingual vocab storage, and intent routing for story creation and vocab management.
 
 The architecture in langflow is as follows:
 
@@ -8,9 +8,9 @@ The architecture in langflow is as follows:
 ## There are 2 operations that this agent can perform:
 
 ### 1. To add the vocabulary via csv or single word at a time.
-## There are 2 ways to upload the vocabulary.(english or german) 
+#### There are 2 ways to upload the vocabulary.(english or german) 
 
-### 1. Via csv file
+### 1. Via .csv file
 Note: Please do not mix both English and German words in a single csv (yet working on this use case and accept csv with different headers as well) 
 
 Example:
