@@ -1,6 +1,10 @@
 # multilingual-vocab-agent-langflow
 multilingual-vocab-agent-langflow is an agentic language-learning system built with Langflow and LLMs that generates dynamic reading stories from user-defined vocabulary. It uses custom components, tool-calling agents, multilingual vocab storage, and intent routing for story creation and vocab management.
 
+The architecture in langflow is as follows:
+
+<img width="1311" height="863" alt="image" src="https://github.com/user-attachments/assets/d5600285-1d7c-4658-92bf-79d2c4d3e520" />
+
 
 # ⚡️ Quickstart
 
