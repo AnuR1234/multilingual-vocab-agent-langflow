@@ -5,6 +5,34 @@ The architecture in langflow is as follows:
 
 <img width="1311" height="863" alt="image" src="https://github.com/user-attachments/assets/d5600285-1d7c-4658-92bf-79d2c4d3e520" />
 
+## There are 2 ways to upload the vocabulary.(english or german) 
+
+### 1. Via csv file
+Note: Please do not mix both English and German words in a single csv (yet working on this use case and accept csv with different headers as well) 
+
+Example:
+
+de_vocab.csv should contain content in the format shown below:
+word
+Haus
+Baum
+Straße
+Apfel
+Buch
+Wasser
+Freund
+Schule
+Zeit
+Stadt
+### 2. Adding a single word at a time
+
+In the playground you can mention as follows:
+Add this English word: Fever
+
+It would display as 
+The English word "Fever" has been added to the vocabulary.
+<img width="781" height="718" alt="image" src="https://github.com/user-attachments/assets/636a30d3-5d15-4231-b9e7-26726ada3467" />
+
 
 # ⚡️ Quickstart
 
