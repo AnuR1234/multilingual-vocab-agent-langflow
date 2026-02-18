@@ -4,7 +4,9 @@ multilingual-vocab-agent-langflow is an agentic language-learning system built w
 The architecture in langflow is as follows:
 
 <img width="1311" height="863" alt="image" src="https://github.com/user-attachments/assets/d5600285-1d7c-4658-92bf-79d2c4d3e520" />
+# There are 2 operation that this agent can perform:
 
+### 1. To add the vocabulary via csv or single word at a time.
 ## There are 2 ways to upload the vocabulary.(english or german) 
 
 ### 1. Via csv file
@@ -32,6 +34,9 @@ Add this English word: Fever
 It would display as 
 The English word "Fever" has been added to the vocabulary.
 <img width="781" height="718" alt="image" src="https://github.com/user-attachments/assets/636a30d3-5d15-4231-b9e7-26726ada3467" />
+### 2. We can later generate a story using the vocab as well 
+Example:
+<img width="814" height="675" alt="image" src="https://github.com/user-attachments/assets/8e1d9c5c-bcd6-477a-947f-6a8791dc1304" />
 
 
 # ⚡️ Quickstart
