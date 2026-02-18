@@ -4,7 +4,8 @@ multilingual-vocab-agent-langflow is an agentic language-learning system built w
 The architecture in langflow is as follows:
 
 <img width="1311" height="863" alt="image" src="https://github.com/user-attachments/assets/d5600285-1d7c-4658-92bf-79d2c4d3e520" />
-# There are 2 operation that this agent can perform:
+
+## There are 2 operations that this agent can perform:
 
 ### 1. To add the vocabulary via csv or single word at a time.
 ## There are 2 ways to upload the vocabulary.(english or german) 
